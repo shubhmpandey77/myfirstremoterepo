@@ -1,1 +1,3 @@
-hello world
+hello wo
+to get this output we need to write this code in pyhton 
+which is printf("helloworlf")
