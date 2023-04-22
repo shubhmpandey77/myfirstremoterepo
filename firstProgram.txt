@@ -1,3 +1,7 @@
-hello wo
+hello world
 to get this output we need to write this code in pyhton 
-which is printf("helloworlf")
+which is printf("helloworld")
+
+print your name
+
+printf("shubham kuamr pandey")
