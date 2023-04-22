@@ -1,2 +1,5 @@
-4
-printf(2+2)
+add two numbers in pyhton
+
+a=4
+b=4
+printf(a+b)
