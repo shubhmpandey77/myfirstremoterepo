@@ -5,3 +5,11 @@ which is printf("helloworld")
 print your name
 
 printf("shubham kuamr pandey")
+
+next code is add you age in it
+
+so the code is 
+
+namee="shubham kumar pandey"
+age=239
+Printf("namee+age);
